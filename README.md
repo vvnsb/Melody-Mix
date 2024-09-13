@@ -1,4 +1,6 @@
-Melody Mix 🎶
+MELODY MIX 🎶
+
+
 Melody Mix is a web application that lets users mix and match various sounds, rhythms, and melodies to create their own unique music tracks. This project is built using HTML, CSS, and JavaScript, providing a simple yet powerful tool for music creation in the browser.
 
 Features
